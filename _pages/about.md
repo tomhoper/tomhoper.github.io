@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the
-[Data-driven Analysis of Peace Project](https://dapp-lab.org) lab. I specialize
-in International Relations and Political Methodology. I earned my Ph.D in
-Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+I am an incoming assistant professor (senior lecturer) at the Hebrew University of Jerusalem's [School of Computer Science and Engineering](https://www.cs.huji.ac.il/), and a research scientist at [The Allen Institute for AI (AI2)](https://allenai.org/). Prior to that I was a postdoctoral researcher at AI2 and the University of Washington (UW), working with [Daniel Weld](https://www.cs.washington.edu/people/faculty/weld) and [Eric Horvitz] (https://www.microsoft.com/en-us/research/people/horvitz/). My work has received four best paper awards, appeared in top venues (e.g., PNAS, KDD, WSDM, AAAI, NAACL, EMNLP, ACL, CHI, AKBC, IEEE), and received coverage from Nature and Science. In parallel to my studies I led an applied AI research team at Intel that published award-winning work. I was selected to participate in the 2021 [Global Young Scientists Summit](https://www.nrf.gov.sg/gyss/home) and 2019 [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/about-us.html) and was a member of the KDD 2020 Best Paper Selection Committee.
+
+
 
 My work has been [published](publications) or is forthcoming in
 *International Studies Quarterly*, *Conflict Management and Peace Science*,
