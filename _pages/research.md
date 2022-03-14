@@ -18,5 +18,5 @@ Progress in research relies on leveraging existing knowledge for creating new kn
 {% assign ordered_pages = site.research | sort:"order_number" %}
 
 {% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
+  {% include single.html type="grid" %}
 {% endfor %}
