@@ -7,27 +7,9 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research falls into two main areas: understanding the influence of geography
-on actor behavior before, during, and after civil conflict, and developing new
-tools to improve the study of institutions (both formal and informal) in peace
-and conflict. One strand of research in this first area explores how the
-territories that ethnic groups inhabit shape rebel group formation and condition
-their relationship with the state. My interest in geography also informs
-projects on active conflicts including the targeting of UN peacekeepers by
-insurgent groups, civilian victimization after rebel territorial conquest, and
-communal violence in fragile settings.
+We are at a unique point in the history of science, where essentially all of scientific knowledge is in the digital space. This presents huge opportunity for computational approaches that augment and accelerate innovation by harnessing humankind’s collective knowledge. I develop artificial intelligence (AI) methods to harness vast repositories of scientific knowledge (e.g., literature, knowledge bases, electronic medical records) for helping humans to discover new knowledge.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
-
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+Progress in research relies on leveraging existing knowledge for creating new knowledge. Similarly, practitioners in fields like medicine and engineering are often required to make complex decisions rooted in deep scientific knowledge. But with an explosion of scholarly information produced every day, experts often cannot see the broad landscape of possibility. My goal is to build systems that help humans throughout all stages of scientific work: discovering useful literature, exploring new directions and solutions to problems, generating hypotheses, and maing well-informed decisions.
 
 <nbsp>
 
