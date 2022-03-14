@@ -1,11 +1,11 @@
 ---
-title: "Social media data"
+title: "Biomedical Predictions"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ternary.png' alt=''>"
 collection: research
 order_number: 40
 header: 
-  og_image: "research/ternary.png"
+  og_image: "research/kglm.png"
 ---
 
 In these projects, I have developed models that leverage scientific literature for generating biomedical hypotheses and predicting clinical outcomes of hospital patients. These projects represent the promise of tapping into latent knowledge in scholarly literature for helping scientists and practioners scale the process of discovery and make better decisions.
