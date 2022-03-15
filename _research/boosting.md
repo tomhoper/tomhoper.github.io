@@ -1,11 +1,11 @@
 ---
 title: "Boosting Creativity"
 layout: single-portfolio
-excerpt: "<img src='/images/research/light.png' alt=''>"
+excerpt: "<img src='/images/research/light.jpeg' alt=''>"
 collection: research
 order_number: 1
 header: 
-  og_image: "/images/research/light.png"
+  og_image: "/images/research/light.jpeg"
 ---
 
 Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery
