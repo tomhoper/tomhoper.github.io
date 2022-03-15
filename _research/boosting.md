@@ -29,7 +29,6 @@ KDD 2017 (**_Best Research Paper Award_**)
 
 [Paper](https://arxiv.org/abs/1706.05585){: .btn--research}
 
-
 Scaling Creative Inspiration with Fine-Grained Functional Aspects of Ideas
 <br>
 **Tom Hope**, Ronen Tamari, Hyeonsu Kang, Daniel Hershcovich, Joel Chan, Aniket Kittur, Dafna Shahaf
