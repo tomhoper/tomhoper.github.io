@@ -3,7 +3,7 @@ title: "Naturally-Occuring Supervision Models"
 layout: single-portfolio
 excerpt: "<img src='/images/research/aspire.png' alt=''>"
 collection: research
-order_number: 10
+order_number: 3
 header: 
   og_image: "/images/research/aspire.png"
 ---
