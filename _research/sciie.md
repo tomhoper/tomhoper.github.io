@@ -3,7 +3,7 @@ title: "Scientific Information Extraction"
 layout: single-portfolio
 excerpt: "<img src='/images/research/scico_teaser.png' alt=''>"
 collection: research
-order_number: 10
+order_number: 4
 header: 
   og_image: "/images/research/scico_teaser.png"
 ---
