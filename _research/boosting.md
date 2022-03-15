@@ -3,7 +3,7 @@ title: "Boosting Creativity"
 layout: single-portfolio
 excerpt: "<img src='/images/research/light.png' alt=''>"
 collection: research
-order_number: 10
+order_number: 1
 header: 
   og_image: "/images/research/light.png"
 ---
