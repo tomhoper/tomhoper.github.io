@@ -88,10 +88,10 @@ author:
   location         : 
   employer         :
   pubmed           :
-  #orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=RZbspgIAAAAJ&view_op=list_works&sortby=pubdate"
-  #email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : 
+  googlescholar    : "https://scholar.google.com/citations?user=RZbspgIAAAAJ&hl=en"
+  email            : 
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -99,17 +99,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "jayrobwilliams"
-  #gitlab           : "jayrobwilliams"
+  github           : 
+  gitlab           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "tom-hope-1433a228"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "Hoper_Tom"
