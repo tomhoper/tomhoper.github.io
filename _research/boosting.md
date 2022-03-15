@@ -1,11 +1,11 @@
 ---
 title: "Naturally-Occuring Supervision Models"
 layout: single-portfolio
-excerpt: "<img src='/images/research/aspire.png' alt=''>"
+excerpt: "<img src='/images/research/light.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "/images/research/aspire.png"
+  og_image: "/images/research/light.png"
 ---
 
 Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery
