@@ -9,6 +9,7 @@ header:
 ---
 
 Multi-Vector Models with Textual Guidance for Fine-Grained Scientific Document Similarity
+
 Sheshera Mysore, Arman Cohan, **Tom Hope**
 
 > We present Aspire, a new scientific document similarity model based on matching fine-grained aspects. Our model is trained using co-citation contexts that describe related paper aspects as a novel form of textual supervision. We use multi-vector document representations, recently explored in settings with short query texts but under-explored in the challenging document-document setting. We present a fast method that involves matching only single sentence pairs, and a method that makes sparse multiple matches with optimal transport. Our model improves performance on document similarity tasks across four datasets. Moreover, our fast single-match method achieves competitive results, opening up the possibility of applying fine-grained document similarity models to large-scale scientific corpora.
@@ -17,6 +18,7 @@ Sheshera Mysore, Arman Cohan, **Tom Hope**
 
 
 Ballpark Crowdsourcing: The Wisdom of Rough Group Comparisons
+
 **Tom Hope**, Dafna Shahaf
 <br>
 WSDM 2018
@@ -28,6 +30,7 @@ We evaluate our methods on real-world datasets, demonstrating how useful constra
 
 
 A Weak Supervision Approach to Detecting Visual Anomalies for Automated Testing of Graphics Units
+
 Adi Szeskin, Lev Faivishevsky, Ashwin K Muppalla, Amitai Armon, **Tom Hope**
 <br>
 KDD 2021 & NeurIPS ML4SYS 2019
