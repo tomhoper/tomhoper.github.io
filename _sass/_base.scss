@@ -66,7 +66,7 @@ ins {
   text-decoration: none;
   border-bottom: 1px solid $text-color;
   a {
-    color: inherit;
+    color: #224b7a;
   }
 }
 
@@ -112,7 +112,7 @@ blockquote {
 /* links */
 
 a {
-   color:darkblue;
+   color:#224b7a;
   &:focus {
     @extend %tab-focus;
   }
@@ -253,7 +253,7 @@ figcaption {
   font-size: $type-size-6;
 
   a {
-    color: darkblue;
+    color: #224b7a;
     text-decoration: none;
     border-bottom: 1px solid $light-gray;
     -webkit-transition: $global-transition;
