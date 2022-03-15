@@ -89,7 +89,7 @@ author:
   employer         :
   pubmed           :
   #orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=RZbspgIAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?user=RZbspgIAAAAJ&hl=en"
   #email            : "rob.williams@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
