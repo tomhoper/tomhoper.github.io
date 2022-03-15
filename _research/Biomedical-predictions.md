@@ -1,7 +1,7 @@
 ---
 title: "Biomedical Predictions"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ternary.png' alt=''>"
+excerpt: "<img src='/images/research/kglm.png' alt=''>"
 collection: research
 order_number: 40
 header: 
