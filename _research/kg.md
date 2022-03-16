@@ -18,7 +18,7 @@ AKBC 2021
 [Paper](https://arxiv.org/abs/2106.09700){: .btn--research} [Github](https://github.com/rahuln/lm-bio-kgc){: .btn--research}
 
 
-Extracting a knowledge base of mechanisms from COVID-19 papers<br>
+Extracting a Knowledge Base of Mechanisms from COVID-19 papers<br>
 _**Tom Hope** *, Aida Amini*, David Wadden, Madeleine van Zuylen, Sravanthi Parasa, Eric Horvitz, Daniel Weld, Roy Schwartz, Hannaneh Hajishirzi_<br>
 NAACL 2021
 
@@ -35,7 +35,7 @@ AKBC 2021 **_Outstanding paper award_**
 
 [Paper](https://arxiv.org/abs/2104.08809){: .btn--research} [Github](https://github.com/ariecattan/SciCo){: .btn--research} [Hugging Face](https://huggingface.co/datasets/allenai/scico){: .btn--research}
 
-Learning a faceted customer segmentation for discovering new business opportunities at Intel<br>
+Learning a Faceted Customer Segmentation for Discovering New Business Opportunities at Intel<br>
 _Itay Lieder, Meirav Segal, Eran Avidan, Asaf Cohen, **Tom Hope**_<br>
 2019 IEEE International Conference on Big Data 
 
