@@ -1,5 +1,5 @@
 ---
-title: "Biomedical Predictions"
+title: "Biomed Predictions"
 layout: single-portfolio
 excerpt: "<img src='/images/research/kglm.png' alt=''>"
 collection: research
