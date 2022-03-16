@@ -18,7 +18,7 @@ CHI 2022 Conference on Human Factors in Computing Systems
 [Paper](https://arxiv.org/abs/2108.05669){: .btn--research}
 
 
-Accelerating innovation through analogy mining
+Accelerating Innovation Through Analogy Mining
 <br>
 _**Tom Hope**, Joel Chan, Aniket Kittur, Dafna Shahaf_<br>
 KDD 2017 (**_Best Research Paper Award_**)
