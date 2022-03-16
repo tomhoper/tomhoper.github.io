@@ -61,6 +61,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
+  margin-bottom: 0;
   font-size: $type-size-6;
 
   & + p {
@@ -105,6 +106,7 @@
   }
 
   .archive__item-excerpt {
+    margin-bottom: 0.25em;
     display: none;
   }
 
@@ -112,6 +114,7 @@
     @include gallery(5 of 10);
     .archive__item-teaser {
       max-height: 200px;
+      margin-bottom: 0.25em;
     }
   }
 
@@ -122,11 +125,13 @@
 
     .archive__item-teaser {
       max-height: 120px;
+      margin-bottom: 0.25em;
     }
 
     .archive__item-excerpt {
       display: block;
       font-size: $type-size-6;
+      margin-bottom: 0.25em;
     }
   }
 }
@@ -138,12 +143,12 @@
 
 .feature__wrapper {
   @include clearfix();
-  margin-bottom: 2em;
+  margin-bottom: 0.25em;
   border-bottom: 1px solid $border-color;
 }
 
 .feature__item {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.25em;
   font-size: 1.25rem;
 
   @include breakpoint($small) {
@@ -161,7 +166,7 @@
     font-size: 1.25rem;
 
     .archive__item-teaser {
-      margin-bottom: 0.5em;
+      margin-bottom: 0.25em;
     }
 
     @include breakpoint($small) {
@@ -182,7 +187,7 @@
     font-size: 1.25rem;
 
     .archive__item-teaser {
-      margin-bottom: 0.5em;
+      margin-bottom: 0.25em;
     }
 
     @include breakpoint($small) {
@@ -205,7 +210,7 @@
     font-size: 1.25rem;
 
     .archive__item-teaser {
-      margin-bottom: 0.5em;
+      margin-bottom: 0.25em;
     }
 
     @include breakpoint($small) {
