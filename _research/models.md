@@ -1,5 +1,5 @@
 ---
-title: "Naturally-Occuring Supervision Models"
+title: "Weak Supervision"
 layout: single-portfolio
 excerpt: "<img src='/images/research/aspire.png' alt=''>"
 collection: research
