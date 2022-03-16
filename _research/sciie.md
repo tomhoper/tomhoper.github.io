@@ -17,7 +17,7 @@ AKBC 2021 **_Outstanding paper award_**
 [Paper](https://arxiv.org/abs/2104.08809){: .btn--research} [Github](https://github.com/ariecattan/SciCo){: .btn--research} [Hugging Face](https://huggingface.co/datasets/allenai/scico){: .btn--research}
 
 
-Extracting a knowledge base of mechanisms from COVID-19 papers<br>
+Extracting a Knowledge Base of Mechanisms from COVID-19 Papers<br>
 _**Tom Hope** *, Aida Amini*, David Wadden, Madeleine van Zuylen, Sravanthi Parasa, Eric Horvitz, Daniel Weld, Roy Schwartz, Hannaneh Hajishirzi_<br>
 NAACL 2021
 
