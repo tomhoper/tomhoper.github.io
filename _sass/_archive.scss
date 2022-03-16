@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
 
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
@@ -93,7 +93,7 @@
    ========================================================================== */
 
 .grid__item {
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
 
   .page__meta {
     margin: 0 0 4px;
