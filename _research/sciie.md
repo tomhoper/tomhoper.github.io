@@ -1,5 +1,5 @@
 ---
-title: "Scientific Information Extraction"
+title: "Scientific IE"
 layout: single-portfolio
 excerpt: "<img src='/images/research/scico_teaser.png' alt=''>"
 collection: research
