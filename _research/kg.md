@@ -18,7 +18,7 @@ AKBC 2021
 [Paper](https://arxiv.org/abs/2106.09700){: .btn--research} [Github](https://github.com/rahuln/lm-bio-kgc){: .btn--research}
 
 
-Extracting a Knowledge Base of Mechanisms from COVID-19 papers<br>
+Extracting a Knowledge Base of Mechanisms from COVID-19 Papers<br>
 _**Tom Hope** *, Aida Amini*, David Wadden, Madeleine van Zuylen, Sravanthi Parasa, Eric Horvitz, Daniel Weld, Roy Schwartz, Hannaneh Hajishirzi_<br>
 NAACL 2021
 
