@@ -17,7 +17,7 @@ AAAI 2022
 
 [Paper](https://arxiv.org/abs/2108.13751){: .btn--research} [Search engine](https://challenges.apps.allenai.org/){: .btn--research} [Github](https://github.com/Dan-La/scientific-challenges-and-directions){: .btn--research} [Hugging Face](https://huggingface.co/DanL/scientific-challenges-and-directions){: .btn--research}
 
-SciSight: Combining faceted navigation and research group detection for COVID-19 exploratory scientific search <br>
+SciSight: Combining Faceted Navigation and Research Group Detection for COVID-19 Exploratory Scientific Search <br>
 _**Tom Hope**, Jason Portenoy, Kishore Vasan, Jonathan Borchardt, Eric Horvitz, Daniel S Weld, Marti A Hearst, Jevin West_<br>
 EMNLP 2020
 
@@ -26,7 +26,7 @@ EMNLP 2020
 [Paper](https://arxiv.org/abs/2005.12668){: .btn--research} [Search engine](https://scisight.apps.allenai.org/){: .btn--research}
 
 
-Extracting a knowledge base of mechanisms from COVID-19 papers<br>
+Extracting a Knowledge Base of Mechanisms from COVID-19 Papers<br>
 _**Tom Hope** *, Aida Amini*, David Wadden, Madeleine van Zuylen, Sravanthi Parasa, Eric Horvitz, Daniel Weld, Roy Schwartz, Hannaneh Hajishirzi_<br>
 NAACL 2021
 
