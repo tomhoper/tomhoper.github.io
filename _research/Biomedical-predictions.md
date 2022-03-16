@@ -15,7 +15,7 @@ _Aakanksha Naik, Sravanthi Parasa, Sergey Feldman, Lucy Lu Wang, **Tom Hope**_
 
 [Preprint](https://arxiv.org/abs/2111.08374){: .btn--research}
 
-Scientific Language Models for Biomedical Knowledge Base Completion
+Scientific Language Models for Biomedical Knowledge Base Completion<br>
 _Rahul Nadkarni, David Wadden, Iz Beltagy, Noah A. Smith, Hannaneh Hajishirzi, **Tom Hope**_<br>
 AKBC 2021
 
