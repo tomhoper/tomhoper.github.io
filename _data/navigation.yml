@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: "https://scholar.google.com/citations?hl=en&user=RZbspgIAAAAJ&view_op=list_works&sortby=pubdate"
 
-#   - title: "Teaching"
-#     url: /teaching/
+  - title: "Advising"
+     url: /advising/
 
 #   - title: "Software"
 #     url: /software/
