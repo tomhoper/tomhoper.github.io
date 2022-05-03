@@ -1,13 +1,27 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Advising"
+permalink: /advising/
 author_profile: true
 redirect_from:
-  - /resume
+  - /advising
 ---
 
 {% include base_path %}
 
 
-You can download a PDF copy of my CV.
+I have had the chance to work with some great students and interns over the past couple of years. 
+
+Aakanksha Naik
+Arie Cattan
+Dan Lahav
+Jason Portenoy
+Jon Saad Falcon
+Marissa Radensky
+Rahul Nadkarni
+Sheshera Mysore
+Tara Safavi
+
+
+
+
