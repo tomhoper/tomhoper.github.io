@@ -7,10 +7,7 @@ main:
     url: "https://scholar.google.com/citations?hl=en&user=RZbspgIAAAAJ&view_op=list_works&sortby=pubdate"
 
   - title: "Advising"
-     url: /advising/
-
-#   - title: "Software"
-#     url: /software/
+    url: /advising/
 
 #   - title: "Posts"
 #     url: /posts/
