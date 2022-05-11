@@ -9,7 +9,7 @@ header:
 ---
 
 Literature-Augmented Clinical Outcome Prediction<br>
-_Aakanksha Naik, Sravanthi Parasa, Sergey Feldman, Lucy Lu Wang, **Tom Hope**_
+_Aakanksha Naik, Sravanthi Parasa, Sergey Feldman, Lucy Lu Wang, **Tom Hope**_<br>
 NAACL 2022
 
 > Predictive models for medical outcomes hold great promise for enhancing clinical decision-making. These models are trained on rich patient data such as clinical notes, aggregating many patient signals into an outcome prediction. However, AI-based clinical models have typically been developed in isolation from the prominent paradigm of Evidence Based Medicine (EBM), in which medical decisions are based on explicit evidence from existing literature. In this work, we introduce techniques to help bridge this gap between EBM and AI-based clinical models, and show that these methods can improve predictive accuracy. We propose a novel system that automatically retrieves patient-specific literature based on intensive care (ICU) patient information, aggregates relevant papers and fuses them with internal admission notes to form outcome predictions. Our model is able to substantially boost predictive accuracy on three challenging tasks in comparison to strong recent baselines; for in-hospital mortality, we are able to boost top-10% precision by a large margin of over 25%.
