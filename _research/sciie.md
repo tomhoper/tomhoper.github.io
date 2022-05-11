@@ -33,3 +33,15 @@ AAAI 2022
 
 [Paper](https://arxiv.org/abs/2108.13751){: .btn--research} [Search engine](https://challenges.apps.allenai.org/){: .btn--research} [Github](https://github.com/Dan-La/scientific-challenges-and-directions){: .btn--research} [Hugging Face](https://huggingface.co/DanL/scientific-challenges-and-directions){: .btn--research}
 
+
+A Dataset for N-ary Relation Extraction of Drug Combinations
+_Aryeh Tiktinsky, Vijay Viswanathan, Danna Niezni, Dana Meron Azagury, Yosi Shamay, Hillel Taub-Tabib, **Tom Hope**, Yoav Goldberg_
+<br>
+NAACL 2022
+
+> Combination therapies have become the standard of care for diseases such as cancer, tuberculosis, malaria and HIV. However, the combinatorial set of available multi-drug treatments creates a challenge in identifying effective combination therapies available in a situation. To assist medical professionals in identifying beneficial drug-combinations, we construct an expert-annotated dataset for extracting information about the efficacy of drug combinations from the scientific literature. Beyond its practical utility, the dataset also presents a unique NLP challenge, as the first relation extraction dataset consisting of variable-length relations. Furthermore, the relations in this dataset predominantly require language understanding beyond the sentence level, adding to the challenge of this task. We provide a promising baseline model and identify clear areas for further improvement. We release our dataset, code, and baseline models publicly to encourage the NLP community to participate in this task.
+
+[Paper](https://arxiv.org/abs/2205.02289){: .btn--research} [Search engine](https://spike4cancer.apps.allenai.org/){: .btn--research} [Github](https://github.com/allenai/drug-combo-extraction){: .btn--research} [Hugging Face](https://huggingface.co/allenai/drug-combo-classifier-pubmedbert-dapt){: .btn--research}
+
+
+
