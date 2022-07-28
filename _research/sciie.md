@@ -34,7 +34,7 @@ AAAI 2022
 [Paper](https://arxiv.org/abs/2108.13751){: .btn--research} [Search engine](https://challenges.apps.allenai.org/){: .btn--research} [Github](https://github.com/Dan-La/scientific-challenges-and-directions){: .btn--research} [Hugging Face](https://huggingface.co/DanL/scientific-challenges-and-directions){: .btn--research}
 
 
-A Dataset for N-ary Relation Extraction of Drug Combinations
+A Dataset for N-ary Relation Extraction of Drug Combinations<br>
 _Aryeh Tiktinsky, Vijay Viswanathan, Danna Niezni, Dana Meron Azagury, Yosi Shamay, Hillel Taub-Tabib, **Tom Hope**, Yoav Goldberg_
 <br>
 NAACL 2022
@@ -44,7 +44,7 @@ NAACL 2022
 [Paper](https://arxiv.org/abs/2205.02289){: .btn--research} [Search engine](https://spike4cancer.apps.allenai.org/){: .btn--research} [Github](https://github.com/allenai/drug-combo-extraction){: .btn--research} [Hugging Face](https://huggingface.co/allenai/drug-combo-classifier-pubmedbert-dapt){: .btn--research}
 
 
-ACCoRD: A Multi-Document Approach to Generating Diverse Descriptions of Scientific Concepts
+ACCoRD: A Multi-Document Approach to Generating Diverse Descriptions of Scientific Concepts<br>
 _Sonia K. Murthy, Kyle Lo, Daniel King, Chandra Bhagavatula, Bailey Kuehl, Sophie Johnson, Jonathan Borchardt, Daniel S. Weld, **Tom Hope**, Doug Downey_
 <br>
 preprint 2022
