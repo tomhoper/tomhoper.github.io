@@ -36,3 +36,13 @@ CHI 2022 Conference on Human Factors in Computing Systems
 
 [Paper](https://arxiv.org/abs/2102.09761){: .btn--research}
 
+
+ACCoRD: A Multi-Document Approach to Generating Diverse Descriptions of Scientific Concepts
+_Sonia K. Murthy, Kyle Lo, Daniel King, Chandra Bhagavatula, Bailey Kuehl, Sophie Johnson, Jonathan Borchardt, Daniel S. Weld, **Tom Hope**, Doug Downey_
+<br>
+preprint 2022
+
+> Systems that can automatically define unfamiliar terms hold the promise of improving the accessibility of scientific texts, especially for readers who may lack prerequisite background knowledge. However, current systems assume a single "best" description per concept, which fails to account for the many potentially useful ways a concept can be described. We present ACCoRD, an end-to-end system tackling the novel task of generating sets of descriptions of scientific concepts. Our system takes advantage of the myriad ways a concept is mentioned across the scientific literature to produce distinct, diverse descriptions of target scientific concepts in terms of different reference concepts. To support research on the task, we release an expert-annotated resource, the ACCoRD corpus, which includes 1,275 labeled contexts and 1,787 hand-authored concept descriptions. We conduct a user study demonstrating that (1) users prefer descriptions produced by our end-to-end system, and (2) users prefer multiple descriptions to a single "best" description.
+
+[Paper](https://arxiv.org/abs/2205.06982){: .btn--research} [Github](https://github.com/allenai/ACCoRD){: .btn--research}
+
