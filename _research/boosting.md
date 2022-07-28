@@ -37,7 +37,7 @@ CHI 2022 Conference on Human Factors in Computing Systems
 [Paper](https://arxiv.org/abs/2102.09761){: .btn--research}
 
 
-ACCoRD: A Multi-Document Approach to Generating Diverse Descriptions of Scientific Concepts
+ACCoRD: A Multi-Document Approach to Generating Diverse Descriptions of Scientific Concepts<br>
 _Sonia K. Murthy, Kyle Lo, Daniel King, Chandra Bhagavatula, Bailey Kuehl, Sophie Johnson, Jonathan Borchardt, Daniel S. Weld, **Tom Hope**, Doug Downey_
 <br>
 preprint 2022
