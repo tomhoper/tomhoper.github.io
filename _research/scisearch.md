@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 Search"
+title: "Scientific Search"
 layout: single-portfolio
 excerpt: "<img src='/images/research/scisight.png' alt=''>"
 collection: research
@@ -16,6 +16,15 @@ AAAI 2022
 > Keeping track of scientific challenges, advances and emerging directions is a fundamental part of research. However, researchers face a flood of papers that hinders discovery of important knowledge. In biomedicine, this directly impacts human lives. To address this problem, we present a novel task of extraction and search of scientific challenges and directions, to facilitate rapid knowledge discovery. We construct and release an expert-annotated corpus of texts sampled from full-length papers, labeled with novel semantic categories that generalize across many types of challenges and directions. We focus on a large corpus of interdisciplinary work relating to the COVID-19 pandemic, ranging from biomedicine to areas such as AI and economics. We apply a model trained on our data to identify challenges and directions across the corpus and build a dedicated search engine. In experiments with 19 researchers and clinicians using our system, we outperform a popular scientific search engine in assisting knowledge discovery. Finally, we show that models trained on our resource generalize to the wider biomedical domain and to AI papers, highlighting its broad utility. We make our data, model and search engine publicly available.
 
 [Paper](https://arxiv.org/abs/2108.13751){: .btn--research} [Search engine](https://challenges.apps.allenai.org/){: .btn--research} [Github](https://github.com/Dan-La/scientific-challenges-and-directions){: .btn--research} [Hugging Face](https://huggingface.co/DanL/scientific-challenges-and-directions){: .btn--research}
+
+Multi-Vector Models with Textual Guidance for Fine-Grained Scientific Document Similarity<br>
+_Sheshera Mysore, Arman Cohan, **Tom Hope**_<br>
+NAACL 2022
+
+> We present Aspire, a new scientific document similarity model based on matching fine-grained aspects. Our model is trained using co-citation contexts that describe related paper aspects as a novel form of textual supervision. We use multi-vector document representations, recently explored in settings with short query texts but under-explored in the challenging document-document setting. We present a fast method that involves matching only single sentence pairs, and a method that makes sparse multiple matches with optimal transport. Our model improves performance on document similarity tasks across four datasets. Moreover, our fast single-match method achieves competitive results, opening up the possibility of applying fine-grained document similarity models to large-scale scientific corpora.
+
+[Preprint](https://arxiv.org/abs/2111.08366){: .btn--research} [Github](https://github.com/allenai/aspire){: .btn--research} 
+
 
 SciSight: Combining Faceted Navigation and Research Group Detection for COVID-19 Exploratory Scientific Search <br>
 _**Tom Hope**, Jason Portenoy, Kishore Vasan, Jonathan Borchardt, Eric Horvitz, Daniel S Weld, Marti A Hearst, Jevin West_<br>
