@@ -8,6 +8,15 @@ header:
   og_image: "/images/research/light.png"
 ---
 
+Learning to Generate Novel Scientific Directions with Contextualized Literature-based Discovery
+<br>
+_Qingyun Wang, Doug Downey, Heng Ji, **Tom Hope**_<br>
+
+> Literature-Based Discovery (LBD) aims to discover new scientific knowledge by mining papers and generating hypotheses. Standard LBD is limited to predicting pairwise relations between discrete concepts (e.g., drug-disease links), and ignores critical contexts like experimental settings (e.g., a specific patient population where a drug is evaluated) and background motivations (e.g., to find drugs without specific side effects). We address these limitations with a novel formulation of contextualized-LBD (C-LBD): generating scientific hypotheses in natural language, while grounding them in a context that controls the hypothesis search space. We present a modeling framework using retrieval of ``inspirations'' from past scientific papers. Our evaluations reveal that GPT-4 tends to generate ideas with overall low technical depth and novelty, while our inspiration prompting approaches partially mitigate this issue. Our work represents a first step toward building language models that generate new ideas derived from scientific literature.
+
+[Paper](https://arxiv.org/abs/2305.14259){: .btn--research}
+
+
 Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery
 <br>
 _Jason Portenoy, Marissa Radensky, Jevin West, Eric Horvitz, Daniel Weld, **Tom Hope**_<br>
