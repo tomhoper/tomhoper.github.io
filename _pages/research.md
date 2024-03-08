@@ -13,8 +13,7 @@ Progress in science relies on leveraging _existing_ knowledge for creating _new_
 
 <iframe src="https://player.vimeo.com/video/840526776?h=672d34af59" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe><script src="https://player.vimeo.com/api/player.js"></script>
 
-My work spans a "full-stack" spectrum: from constructing new datasets, tasks and machine learning models, to designing user experiments and user-facing systems. I explore new paradigms in diverse areas of computer science such as text mining, search and retrieval, information extraction, human-computer interaction, weak supervision, knowledge graph construction and link prediction. Below are some representative examples. 
-
+My work spans a "full-stack" spectrum: from constructing new datasets, tasks and machine learning models, to designing user experiments and user-facing systems. I explore new paradigms in diverse areas of computer science such as text mining, search and retrieval, multimodal models and LLMs, information extraction, human-computer interaction, weak supervision, knowledge graph construction and link prediction. Below are some representative examples. 
 
 
 <nbsp>
