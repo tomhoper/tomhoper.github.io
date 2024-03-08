@@ -8,11 +8,12 @@ header:
   og_image: "/images/research/light.png"
 ---
 
-Learning to Generate Novel Scientific Directions with Contextualized Literature-based Discovery
-<br>
-_Qingyun Wang, Doug Downey, Heng Ji, **Tom Hope**_<br>
+SciMON: Scientific Inspiration Machines Optimized for Novelty
 
-> Literature-Based Discovery (LBD) aims to discover new scientific knowledge by mining papers and generating hypotheses. Standard LBD is limited to predicting pairwise relations between discrete concepts (e.g., drug-disease links), and ignores critical contexts like experimental settings (e.g., a specific patient population where a drug is evaluated) and background motivations (e.g., to find drugs without specific side effects). We address these limitations with a novel formulation of contextualized-LBD (C-LBD): generating scientific hypotheses in natural language, while grounding them in a context that controls the hypothesis search space. We present a modeling framework using retrieval of ``inspirations'' from past scientific papers. Our evaluations reveal that GPT-4 tends to generate ideas with overall low technical depth and novelty, while our inspiration prompting approaches partially mitigate this issue. Our work represents a first step toward building language models that generate new ideas derived from scientific literature.
+<br>_Qingyun Wang, Doug Downey, Heng Ji, **Tom Hope**_<br>
+preprint, 2024
+
+> We explore and enhance the ability of neural language models to generate novel scientific directions grounded in literature. Work on literature-based hypothesis generation has traditionally focused on binary link prediction -- severely limiting the expressivity of hypotheses. This line of work also does not focus on optimizing novelty. We take a dramatic departure with a novel setting in which models use as input background contexts (e.g., problems, experimental settings, goals), and output natural language ideas grounded in literature. We present SciMON, a modeling framework that uses retrieval of "inspirations" from past scientific papers, and explicitly optimizes for novelty by iteratively comparing to prior papers and updating idea suggestions until sufficient novelty is achieved. Comprehensive evaluations reveal that GPT-4 tends to generate ideas with overall low technical depth and novelty, while our methods partially mitigate this issue. Our work represents a first step toward evaluating and developing language models that generate new ideas derived from the scientific literature.
 
 [Paper](https://arxiv.org/abs/2305.14259){: .btn--research}
 
