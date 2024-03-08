@@ -1,5 +1,5 @@
 ---
-title: "Boosting Creativity"
+title: "AI Inspiration"
 layout: single-portfolio
 excerpt: "<img src='/images/research/light.png' alt=''>"
 collection: research
