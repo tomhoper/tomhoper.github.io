@@ -8,6 +8,15 @@ header:
   og_image: "/images/research/scisight.png"
 ---
 
+Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination<br>
+_Marissa Radensky, Simra Shahid, Raymond Fok, Pao Siangliulue, Daniel S. Weld*, **Tom Hope***_<br>
+preprint, 2024
+
+> The scientific ideation process often involves blending salient aspects of existing papers to create new ideas. To see if large language models (LLMs) can assist this process, we contribute Scideator, a novel mixed-initiative tool for scientific ideation. Starting from a user-provided set of papers, Scideator extracts key facets (purposes, mechanisms, and evaluations) from these and relevant papers, allowing users to explore the idea space by interactively recombining facets to synthesize inventive ideas. Scideator also helps users to gauge idea novelty by searching the literature for potential overlaps and showing automated novelty assessments and explanations. To support these tasks, Scideator introduces four LLM-powered retrieval-augmented generation (RAG) modules: Analogous Paper Facet Finder, Faceted Idea Generator, Idea Novelty Checker, and Idea Novelty Iterator. In a within-subjects user study, 19 computer-science researchers identified significantly more interesting ideas using Scideator compared to a strong baseline combining a scientific search engine with LLM interaction.
+
+[Paper](https://arxiv.org/abs/2409.14634){: .btn--research}
+
+
 A Search Engine for Discovery of Scientific Challenges and Directions<br>
 _Dan Lahav, Jon Saad Falcon, Bailey Kuehl, Sophie Johnson, Sravanthi Parasa, Noam Shomron, Duen Horng Chau, Diyi Yang, Eric Horvitz, Daniel S Weld, **Tom Hope**_
 <br>
