@@ -8,6 +8,24 @@ header:
   og_image: "/images/research/scico_teaser.png"
 ---
 
+Inferring Scientific Cross-Document Coreference and Hierarchy with Definition-Augmented Relational Reasoning<br>
+_Lior Forer, **Tom Hope**_<br>
+preprint, 2024
+
+> We address the fundamental task of inferring cross-document coreference and hierarchy in scientific texts, which has important applications in knowledge graph construction, search, recommendation and discovery. LLMs can struggle when faced with many long-tail technical concepts with nuanced variations. We present a novel method which generates context-dependent definitions of concept mentions by retrieving full-text literature, and uses the definitions to enhance detection of cross-document relations. We further generate relational definitions, which describe how two concept mentions are related or different, and design an efficient re-ranking approach to address the combinatorial explosion involved in inferring links across papers. In both fine-tuning and in-context learning settings we achieve large gains in performance. We provide analysis of generated definitions, shedding light on the relational reasoning ability of LLMs over fine-grained scientific concepts.
+
+[Paper](https://arxiv.org/abs/2409.15113){: .btn--research} 
+
+
+CARE: Extracting Experimental Findings From Clinical Literature<br>
+_Aakanksha Naik, Bailey Kuehl, Erin Bransom, Doug Downey, **Tom Hope**_<br>
+NAACL 2024
+
+> Extracting fine-grained experimental findings from literature can provide dramatic utility for scientific applications. Prior work has developed annotation schemas and datasets for limited aspects of this problem, failing to capture the real-world complexity and nuance required. Focusing on biomedicine, this work presents CARE -- a new IE dataset for the task of extracting clinical findings. We develop a new annotation schema capturing fine-grained findings as n-ary relations between entities and attributes, which unifies phenomena challenging for current IE systems such as discontinuous entity spans, nested relations, variable arity n-ary relations and numeric results in a single schema. We collect extensive annotations for 700 abstracts from two sources: clinical trials and case reports. We also demonstrate the generalizability of our schema to the computer science and materials science domains. We benchmark state-of-the-art IE systems on CARE, showing that even models such as GPT4 struggle. We release our resources to advance research on extracting and aggregating literature findings.
+
+[Paper](https://arxiv.org/abs/2311.09736){: .btn--research} [Github](https://github.com/allenai/CARE){: .btn--research}
+
+
 SciCo: Hierarchical Cross-Document Coreference for Scientific Concepts<br>
 _Arie Cattan, Sophie Johnson, Daniel Weld, Ido Dagan, Iz Beltagy, Doug Downey, **Tom Hope**_<br>
 AKBC 2021 **_Outstanding paper award_**
