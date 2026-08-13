@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Research Highlights"
-    url: /research/
 
   - title: "Publications"
     url: "https://scholar.google.com/citations?hl=en&user=RZbspgIAAAAJ&view_op=list_works&sortby=pubdate"
